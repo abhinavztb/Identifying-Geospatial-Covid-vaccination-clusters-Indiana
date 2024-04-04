@@ -35,10 +35,3 @@ Key preprocessing steps included:
 
 ## Findings and Conclusion
 Our analysis revealed significant disparities in vaccination rates across Indiana, with urban areas typically showing higher rates. The project underscores the importance of geospatial analysis in public health, offering a pathway to more targeted and effective vaccination strategies.
-
-## References
-This project references works such as "Mathematics for Machine Learning" by Deisenroth et al., "Machine Learning: A Probabilistic Perspective" by Murphy, and utilizes documentation from the Scikit-learn library for methodological guidance.
-
----
-
-This README.md combines an overview of the project's goals and findings with detailed information on the methodologies, data preprocessing steps, and tools used, offering a complete picture suitable for GitHub viewers interested in both the project's impact and its technical underpinnings.
